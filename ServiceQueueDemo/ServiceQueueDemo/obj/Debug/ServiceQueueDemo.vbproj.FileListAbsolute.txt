@@ -1,0 +1,9 @@
+C:\Users\maurera\Documents\GitHub\ServiceQueueDemo\ServiceQueueDemo\ServiceQueueDemo\bin\ServiceQueueDemo.dll.config
+C:\Users\maurera\Documents\GitHub\ServiceQueueDemo\ServiceQueueDemo\ServiceQueueDemo\bin\ServiceQueueDemo.dll
+C:\Users\maurera\Documents\GitHub\ServiceQueueDemo\ServiceQueueDemo\ServiceQueueDemo\bin\ServiceQueueDemo.pdb
+C:\Users\maurera\Documents\GitHub\ServiceQueueDemo\ServiceQueueDemo\ServiceQueueDemo\bin\ServiceQueueDemo.xml
+C:\Users\maurera\Documents\GitHub\ServiceQueueDemo\ServiceQueueDemo\ServiceQueueDemo\obj\Debug\ServiceQueueDemo.Resources.resources
+C:\Users\maurera\Documents\GitHub\ServiceQueueDemo\ServiceQueueDemo\ServiceQueueDemo\obj\Debug\ServiceQueueDemo.vbproj.GenerateResource.Cache
+C:\Users\maurera\Documents\GitHub\ServiceQueueDemo\ServiceQueueDemo\ServiceQueueDemo\obj\Debug\ServiceQueueDemo.dll
+C:\Users\maurera\Documents\GitHub\ServiceQueueDemo\ServiceQueueDemo\ServiceQueueDemo\obj\Debug\ServiceQueueDemo.xml
+C:\Users\maurera\Documents\GitHub\ServiceQueueDemo\ServiceQueueDemo\ServiceQueueDemo\obj\Debug\ServiceQueueDemo.pdb
